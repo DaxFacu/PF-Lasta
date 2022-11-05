@@ -1,0 +1,14 @@
+.carruselImages{
+    width: 100%;
+    div{
+        margin-left: auto;
+        width: 100%;
+        object-fit: cover;
+        box-sizing: content-box;
+      
+        img{
+        object-fit: contain;
+        width: 100%;
+        }  
+    }
+}
